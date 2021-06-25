@@ -3,3 +3,4 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 本作品目前仅开源程序和灯板的PCB文件，因为还有一个比赛需要用到此作品开发，因此暂不完全开源
 
 WS2812接在IO2,按键接在IO16
+使用时需在代码中填写自己的pid
